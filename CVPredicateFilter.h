@@ -3,7 +3,7 @@
 //  Copyright (c) 2013 Kasper Timm Hansen. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>;
+#import <Foundation/Foundation.h>
 
 typedef void(^CVPredicateFilterCompletionHandler)(NSArray *filteredObjects);
 
