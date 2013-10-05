@@ -17,6 +17,10 @@ Run pod install to install the dependencies.
 
 ### CVPredicateFilter
 
+```objc
+#import "CVPredicateFilter.h"
+```
+
 Instantiate `CVPredicateFilter` with the array to filter:
 
 ```objc
@@ -49,6 +53,10 @@ If you've have pushed yourself too far, you can always pop a filter:
 There are many more ways to push and pop filters in `CVPredicateFilter.h`.
 
 ### CVCompoundPredicateFilter
+
+```objc
+#import "CVCompoundPredicateFilter.h"
+```
 
 Segmented arrays can also be filtered. Perfect for those sectioned table views with searching.
 
