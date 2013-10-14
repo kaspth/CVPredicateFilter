@@ -77,6 +77,10 @@ NSLog(@"Filtered: %@", compoundFilter.filteredObjects); // Filtered: @[@[@"one"]
 
 Note here that you would write the predicate exactly as you would for a single `CVPredicateFilter`.
 
+Read more about `NSPredicate` here:
+[NSPredicate programming guide](https://developer.apple.com/library/ios/documentation/cocoa/conceptual/Predicates/predicates.html#//apple_ref/doc/uid/TP40001798-SW1)
+[NSHipster article](http://nshipster.com/nspredicate/)
+
 ## Credits
 
 Distributed with an MIT License.
